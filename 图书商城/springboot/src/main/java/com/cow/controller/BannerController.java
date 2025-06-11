@@ -11,9 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- *
- * @email QQ:550080747
- * @date 2020/12/31 16:23
  * @description 商品类别
  */
 @CrossOrigin
