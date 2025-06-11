@@ -15,8 +15,6 @@ import java.util.List;
 
 /**
  *
- * @email QQ:550080747
- * @date 2020/11/17 16:15
  * @description 商品规格、商品与商品规格的关联
  */
 
