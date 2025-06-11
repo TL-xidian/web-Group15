@@ -17,8 +17,6 @@ import java.util.List;
 
 /**
  *
- * @email QQ:550080747
- * @date 2020/11/25 8:23
  * @description 供应商和采购
  */
 @CrossOrigin
