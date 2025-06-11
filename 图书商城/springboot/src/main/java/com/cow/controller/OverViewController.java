@@ -15,8 +15,6 @@ import java.util.Map;
 
 /**
  *
- * @email QQ:550080747
- * @date 2020/12/3 16:21
  * @description 数据分析，商品数量，订单数量等分析业务
  */
 @CrossOrigin
