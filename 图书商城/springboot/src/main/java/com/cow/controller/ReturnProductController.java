@@ -21,8 +21,6 @@ import java.util.Map;
 
 /**
  *
- * @email QQ:550080747
- * @date 2020/11/24 21:09
  * @description 商品退回
  */
 @CrossOrigin
