@@ -22,8 +22,6 @@ import java.util.concurrent.TimeUnit;
 
 /**
  *
- * @email QQ:550080747
- * @date 2020/10/28 18:11
  * @description 订单相关业务
  */
 
