@@ -13,8 +13,6 @@ import java.util.Map;
 
 /**
  *
- * @email QQ:550080747
- * @date 2020/12/31 16:23
  * @description 购物车业务类
  */
 @RestController
