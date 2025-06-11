@@ -18,8 +18,6 @@ import java.util.Map;
 
 /**
  *
- * @email QQ:550080747
- * @date 2020/10/28 18:11
  * @description 商品相关业务
  */
 
