@@ -18,7 +18,7 @@ import javax.annotation.Resource;
 import java.io.IOException;
 
 /**
- *
+ *  oss
  */
 @Slf4j
 @CrossOrigin
