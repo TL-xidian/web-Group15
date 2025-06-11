@@ -14,9 +14,6 @@ import java.util.List;
 import java.util.Map;
 
 /**
- *
- * @email QQ:550080747
- * @date 2021/1/4 11:12
  * @description 商品评价 业务类
  */
 @RestController
